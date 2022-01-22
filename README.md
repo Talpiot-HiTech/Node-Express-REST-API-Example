@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-<h1 align="center">Node.js Express REST API Example</h1>
+<h1 align="center">Node.js Express REST API JS Example</h1>
 
 <div align="center">
   <p align="center">
